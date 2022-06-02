@@ -6,7 +6,7 @@ public class Main {
         int score = 100;
         int depositAccount = 1100;
         int bonus;
-        if ( depositAccount > 1000 ) {
+        if (depositAccount > 1000) {
             bonus = depositAccount / 100;
         } else {
             bonus = 0;// write your code here
